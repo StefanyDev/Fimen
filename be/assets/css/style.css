@@ -108,7 +108,6 @@ nav {
 .navbar-default .navbar-nav > li > a {
   color: #fff;
   font-size: 20px;
-  padding: 50px 26px 35px;
 }
 .navbar-default .navbar-nav > li > a:focus,
 .navbar-default .navbar-nav > li > a:hover {
@@ -208,7 +207,8 @@ nav {
 /*----------- team ------------*/
 
 #team {
-  background: url("../img/gallery/fondo\ nuestros\ clientes\ \ \(1\).png") no-repeat scroll center bottom / cover;
+  background: url("../img/gallery/fondo\ nuestros\ clientes\ \ \(1\).png")
+    no-repeat scroll center bottom / cover;
   color: #fff;
   overflow: hidden;
   padding: 100px 0 220px;
@@ -290,8 +290,7 @@ nav {
 }
 /*----------- for box ------------*/
 .for-box {
-  background: url("../img/servicios.png") no-repeat scroll center
-    bottom / cover;
+  background: url("../img/servicios.png") no-repeat scroll center bottom / cover;
   padding-top: 200px;
   background-attachment: fixed;
   padding-bottom: 100px;
@@ -955,7 +954,8 @@ blockquote {
 }
 
 #footer {
-  background: rgba(0, 0, 0, 0) url("../img/gallery/Fondo\ contacto\ 2\ .png") no-repeat scroll  ;
+  background: rgba(0, 0, 0, 0) url("../img/gallery/Fondo\ contacto\ 2\ .png")
+    no-repeat scroll;
   color: #fff;
   padding: 60px 0 120px;
   position: relative;
@@ -1338,5 +1338,5 @@ blockquote {
 }
 
 .separacion-filas {
-    margin-bottom: 20px; /* Puedes ajustar este valor según sea necesario */
+  margin-bottom: 20px; /* Puedes ajustar este valor según sea necesario */
 }
